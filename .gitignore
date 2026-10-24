@@ -20,3 +20,5 @@
 
 # Goland
 .idea
+# Output of make postgres
+build/
